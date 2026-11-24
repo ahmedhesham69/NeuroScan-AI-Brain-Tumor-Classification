@@ -1,0 +1,23 @@
+# Dataset folders & archives
+archive/
+archive.zip
+*.zip
+*.tar.gz
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS metadata
+.DS_Store
+Thumbs.db
